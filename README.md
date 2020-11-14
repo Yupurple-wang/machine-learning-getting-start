@@ -1,6 +1,5 @@
 # Machine Learning
-## UC Berkeley CS188
-
+## Taken from Coursera course
 ### 1 Python Basics with Numpy
 * https://github.com/wzy-emilie/machine-learning/blob/master/01-Python_Basics_With_Numpy.ipynb
 * (效果与在jupyter notebook上查看一样) https://nbviewer.jupyter.org/github/wzy-emilie/machine-learning/blob/master/01-Python_Basics_With_Numpy.ipynb
