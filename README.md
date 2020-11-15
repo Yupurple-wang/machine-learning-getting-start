@@ -1,7 +1,8 @@
 # Machine Learning
 ## Taken from Coursera course
+## https://nbviewer.jupyter.org/ (效果与在jupyter notebook上查看一样)
+
 ### 1 Python Basics with Numpy
-* https://nbviewer.jupyter.org/ (效果与在jupyter notebook上查看一样)
 ##### 1.1 Building basic functions with numpy
         * Sigmoid function, np.exp()
         * Sigmoid gradient
